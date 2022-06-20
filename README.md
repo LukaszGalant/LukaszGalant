@@ -11,4 +11,7 @@
 - math as a tool to improve efficiency
 
 ## E-mail me!
-lukasz.m.galant@gmail.com
+@ lukasz.m.galant@gmail.com
+
+## Linkedin profile:
+https://www.linkedin.com/in/%C5%82ukasz-galant-186430125/
